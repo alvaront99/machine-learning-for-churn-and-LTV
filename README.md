@@ -63,4 +63,4 @@ Como analista enfocado en resultados de negocio, aplico un criterio estricto ant
 * **Cultura Data-Driven:** Este trabajo demuestra que el Machine Learning no es un evento aleatorio, sino una herramienta para liderar el mercado mediante la anticipación.
 
 ## Documentación
-La memoria detallada con el análisis comparativo, las métricas y la estrategia de negocio se encuentra en
+La memoria detallada con el análisis comparativo, las métricas y la estrategia de negocio se encuentra en [Memoria_TFG.pdf](https://github.com/alvaront99/machine-learning-for-churn-and-LTV/blob/main/Memoria-ML-churn.pdf).
